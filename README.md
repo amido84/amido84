@@ -12,7 +12,7 @@ Currently, I serve as a Data Center Specialist Senior at UT Health San Antonio, 
 My Master's degree in Data Science has provided me with a strong theoretical foundation in mathematics, statistics, and computer science. I have honed my skills in programming languages such as Python and R, as well as utilized libraries and frameworks like TensorFlow, PyTorch, and scikit-learn for machine learning tasks. I am well-versed in SQL for data manipulation and have experience working with big data technologies like Apache Spark.
 
 🚀 GitHub Projects:
-On my GitHub profile, you'll find a diverse range of projects showcasing my expertise in data science. I have developed and shared end-to-end machine learning pipelines, from data preprocessing to model training and deployment. These projects demonstrate my ability to apply advanced algorithms, including regression, classification, clustering, and natural language processing, to solve real-world problems. Additionally, I actively contribute to open-source projects and share my knowledge through tutorials and code samples.
+On my GitHub profile, you'll find a diverse range of projects showcasing my expertise in data science.
 
 📫 Let's Connect:
 If you're interested in discussing data science, exploring potential collaborations, or have any questions about my work, feel free to reach out to me. You can connect with me through LinkedIn. I'm always open to new opportunities and learning experiences.
