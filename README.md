@@ -5,9 +5,6 @@
 🔬 Data Science Expertise:
 As a data scientist, I possess a strong foundation in statistical analysis, machine learning, and data visualization. My academic background and professional experience have equipped me with a deep understanding of the entire data science lifecycle, from data acquisition and cleaning to model building, evaluation, and deployment.
 
-💼 Professional Experience:
-Currently, I serve as a Data Center Manager at UT Health San Antonio, where my main focus is managing and optimizing data center operations. In this role, I actively leverage data to drive insights and enhance operational efficiency within the data center environment. I have gained extensive hands-on experience in tasks such as data preprocessing, exploratory data analysis, and employing predictive modeling techniques. By utilizing data-driven decision-making, I have contributed to improving the overall performance and effectiveness of the data center. Additionally, I collaborate closely with cross-functional teams, including data engineers and software developers, to deliver innovative and data-driven solutions tailored to the specific needs of the data center.
-
 📚 Academic Background:
 My Master's in Data Science has provided me with a solid theoretical foundation in mathematics, statistics, and computer science. I have honed my skills in programming languages such as Python and R and utilized libraries and frameworks like TensorFlow, PyTorch, and sci-kit for machine learning tasks. I am well-versed in SQL for data manipulation and have experience working with big data technologies like Apache Spark.
 
