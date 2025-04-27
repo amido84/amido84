@@ -16,8 +16,6 @@ If you're interested in discussing data science, exploring potential collaborati
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you soon!
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/amido84#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/amido84#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/instagram-light.svg)](https://instagram.com/amido_84#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/amido_84#gh-dark-mode-only)
